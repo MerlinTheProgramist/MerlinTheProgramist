@@ -12,7 +12,7 @@ I would be happy to talk to you, all viewing my profile. I'm open to any coopera
 - C++ 
 - C#
 - Python
-- NodeJS
+- Rust
 
 ### How to reach me? 	:telephone_receiver:
 - mail: Kvasjir@proton.me
