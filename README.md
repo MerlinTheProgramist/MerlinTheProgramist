@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cheerio! 👋
 
 ### Intrested in:
 - :abacus: Math & algorithms
