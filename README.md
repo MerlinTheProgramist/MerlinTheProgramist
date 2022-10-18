@@ -3,9 +3,8 @@
 ### Intrested in:
 - :abacus: Math & algorithms
 - :computer: Computer architecture
-- Compilers
-- Computer Vision
-- Deep Learning
+- :movie_camera: Computer Vision
+- :repeat: Deep Learning
 
 ### Currently working with:
 - C++ 
