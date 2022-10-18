@@ -1,15 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
-<--
-**MerlinTheProgramist/MerlinTheProgramist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+### Intrested in:
+- :abacus: Math & algorithms
+- :computer: Computer architecture
+- Compilers
+- Computer Vision
+- Deep Learning
 
-- 🔭 I’m currently working 
-- 🌱 I’m currently learning optimal algorithm design  
-<-- - 👯 I’m looking to collaborate on ... -->  
-<-- - 🤔 I’m looking for help with ... -->  
-<-- - 💬 Ask me about ... -->  
-<-- - 📫 How to reach me: ... -->  
-<-- - 😄 Pronouns: ... -->  
-- ⚡ Fun fact: I design and build my own rocket models
+### Currently working with:
+- C++ 
+- C#
+- Python
+- NodeJS
+
+### How to reach me? 	:telephone_receiver:
+- mail: Kvasjir@proton.me
+- discord: Merlin_1#82273
+
+⚡ Fun fact: I design and build my own rocket models
