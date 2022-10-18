@@ -9,7 +9,7 @@
 ### Currently working with:
 - C++ 
 - C#
-- :snake: Python
+- Python
 - NodeJS
 
 ### How to reach me? 	:telephone_receiver:
