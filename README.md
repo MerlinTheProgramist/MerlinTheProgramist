@@ -17,5 +17,3 @@ I would be happy to talk to you, all viewing my profile. I'm open to any coopera
 ### How to reach me? 	:telephone_receiver:
 - mail: Kvasjir@proton.me
 - discord: Merlin_1#82273
-<hr>
-⚡ Fun fact: I design and build my own rocket models
