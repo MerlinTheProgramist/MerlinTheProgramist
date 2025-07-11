@@ -1,11 +1,11 @@
 ## Cheerio! 👋
-I'm a self-taught programmer, Electronics entusiast, rocket scientist and way more than that...
+I'm a self-taught programmer, electronics entusiast, maker and way more than that...
 
 ### Intrested in:
-- Math & algorithms
-- processors architecture
-- gamedev
-- 
+- Operating systems
+- Computer architecture
+- Gamedev
+- Electronics
 
 ### Currently working with:
 1. Rust
@@ -14,5 +14,5 @@ I'm a self-taught programmer, Electronics entusiast, rocket scientist and way mo
 4. Haskell
 
 ### How to reach me? 	:telephone_receiver:
-- mail: Kvasjir@proton.me
-- discord: Merlin_1#82273
+- mail: kvasjir@proton.me
+- discord: logic_lifter
