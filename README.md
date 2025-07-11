@@ -1,18 +1,18 @@
-## Cheerio! 👋
+## 👋 Cheerio! 
 I'm a self-taught programmer, electronics entusiast, maker and way more than that...
 
-### Intrested in:
+### 💜 Intrested in:
 - Operating systems
 - Computer architecture
 - Gamedev
 - Electronics
 
-### Currently working with:
+### 🧑‍💻 Currently working with:
 1. Rust
 2. VHDL
 3. C and C++
 4. Haskell
 
-### How to reach me? 	:telephone_receiver:
+### 📞 How to reach me?
 - mail: kvasjir@proton.me
 - discord: logic_lifter
