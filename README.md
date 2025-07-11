@@ -8,10 +8,10 @@ I'm a self-taught programmer, Electronics entusiast, rocket scientist and way mo
 - 
 
 ### Currently working with:
-- C and C++
-- Rust
-- Python
-- VHDL
+1. Rust
+2. VHDL
+3. C and C++
+4. Haskell
 
 ### How to reach me? 	:telephone_receiver:
 - mail: Kvasjir@proton.me
