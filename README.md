@@ -1,5 +1,5 @@
 ## 👋 Cheerio! 
-I'm a self-taught programmer, electronics entusiast, maker and way more than that...
+I'm a self-taught programmer, electronics engineering student, space nerd, maker and way more than that...
 
 ### 💜 Intrested in:
 - Operating systems
