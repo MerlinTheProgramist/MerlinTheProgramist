@@ -2,10 +2,11 @@
 I'm a self-taught programmer, electronics engineering student, space nerd, maker and way more than that...
 
 ### 💜 Intrested in:
-- Operating systems
+- Low-level code
 - Computer architecture
-- Gamedev
 - Electronics
+- Operating systems
+- Gamedev
 
 ### 🧑‍💻 Currently working with:
 1. Rust
