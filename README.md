@@ -10,8 +10,8 @@ I'm a self-taught programmer, electronics entusiast, maker and way more than tha
 ### 🧑‍💻 Currently working with:
 1. Rust
 2. VHDL
-3. C and C++
-4. Haskell
+3. Python
+4. C/C++17
 
 ### 📞 How to reach me?
 - mail: kvasjir@proton.me
