@@ -14,5 +14,5 @@ I'm a self-taught programmer, electronics engineering student, space nerd, maker
 4. C/C++17
 
 ### 📞 How to reach me?
-- mail: kvasjir@proton.me
+- mail: 0x00@soonlabs.xyz
 - discord: logic_lifter
